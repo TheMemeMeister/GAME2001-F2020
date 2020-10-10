@@ -62,7 +62,7 @@ public:
 			return;
 		}
 
-		for (int i = index; i < numElements; i++)
+		for (int i = index; i < m_numElements; i++)
 		{
 			if (i + 1 < m_numElements)
 			{
